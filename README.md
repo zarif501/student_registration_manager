@@ -74,12 +74,14 @@ Use Cases:
 •	Export data (PDF/Excel)
 •	Improve UI/UX
  
-11. 📷 Screenshots
-(Add your project screenshots here)
+11. codes
+
  
 12. 👨‍💻 Team Members
-•	Zarif
-•	
+•	Mohammad Zarif Nazari 230 201 981
+•	Mohammad Shabeer Ahmadzai 240 201 699
+•	Neva Ekin AKÇAY 240 208 442
+•	Halil mert bal 240 208 460
  
 13. 📄 Conclusion
 This project demonstrates how a student management system can simplify data handling and improve efficiency. It provides a strong foundation for building larger educational management systems.
